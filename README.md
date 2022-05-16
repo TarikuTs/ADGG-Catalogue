@@ -1,1 +1,2 @@
 # ADGG-Catalogue
+Dairy Animal catalogue application has two modules. The first module contained list of top dairy animals ranked based on their (genomic) breeding value. The other module listed all Artificial Insemination (AI) bulls kept in five AI centers located in five regions. The list of animals, from both modules, will be updated whenever new national genetic evaluation performed, and new bulls entered into AI centers.
